@@ -1,1 +1,3 @@
 # GitTest
+
+# jakies zmiany
